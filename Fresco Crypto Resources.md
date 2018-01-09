@@ -1,11 +1,11 @@
 #### ![image alt text](image_0.png)
 
-#### ICO Playbook for Entrepreneurs (NOTE:  Compiled by: Frederick Ng, Fresco Fellow, Fresco Capital
+#### ICO Playbook for Entrepreneurs 
+(NOTE:  Compiled by: Frederick Ng, Fresco Fellow, Fresco Capital
   Contributors: 
 Stephen Forte, Managing Partner, Fresco Capital 
-Adam Omar Shanti, Venture Partner, Fresco Capital 
+Adam Omar Shanti, Venture Partner, Fresco Capital)
 
-)
 
 An open source guide to ICOs.
 
@@ -588,7 +588,8 @@ Legal steps including AML checks, company registration (setting up SPV for colle
   <tr>
     <td>Road Show Expenses</td>
     <td>US$10k-20k
-Depending on travel, number of people going, style that you entertain people, etc.</td>
+
+Depending on travel, number of people going, style that you entertain people, etc.</td>
   </tr>
   <tr>
     <td>Technical Advisors</td>
