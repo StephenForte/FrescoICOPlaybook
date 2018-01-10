@@ -41,7 +41,7 @@ INDEX OF CONTENT
 
 7. **Benefits of an ICO for the Organization**
 
-8. **Risks**** of Conducting an ICO**
+8. **Risks of Conducting an ICO**
 
 **Glossary**
 
