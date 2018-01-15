@@ -1,10 +1,11 @@
 #### ![image alt text](image_0.png)
 
 #### ICO Playbook for Entrepreneurs 
-(NOTE:  Compiled by: Frederick Ng, Fresco Fellow, Fresco Capital
-  Contributors: 
+
+Initially compiled by: 
+Frederick Ng, Fresco Fellow, Fresco Capital
 Stephen Forte, Managing Partner, Fresco Capital 
-Adam Omar Shanti, Venture Partner, Fresco Capital)
+Adam Omar Shanti, Venture Partner, Fresco Capital
 
 
 An open source guide to ICOs.
@@ -63,9 +64,9 @@ INDEX OF CONTENT
 
 * High-level ICO timeline.
 
-**Appendix and Additional Resources **
+**Appendix and Additional Resources**
 
-* **Useful resources**
+* Useful resources.
 
 **BACKGROUND INFORMATION**
 
@@ -97,7 +98,7 @@ Discussions of an ICO are incomplete without a discussion of cryptocurrency and 
 
 * **Decentralized**—As a collective unit, all the users along the chain hold the records.  New blocks of transactions require verification by the collective unit, so the process removes the need for a trusted central organization, such as a bank or central government, to verify and maintain transactions, thus achieving decentralization and preventing the possibility of abuse of power by a single entity or group of people.
 
-* **Continuous -- **Any token issued, as well as any subsequent activities for which these tokens are used, also have to operate on a Blockchain, and are thus regulated in the same decentralized, anonymous fashion.
+* **Continuous** Any token issued, as well as any subsequent activities for which these tokens are used, also have to operate on a Blockchain, and are thus regulated in the same decentralized, anonymous fashion.
 
  
 
@@ -136,7 +137,7 @@ Tokens must first be created in order for them to be issued to investors. As of 
 
 * **Token Creation on an Existing Protocol:** Protocols including Ethereum (the most popular), Stellar, Omni, Waves, Counterparty etc.
 
-* **Token Creation on a Proprietary Protocol: **Companies can write your own native Blockchain/Protocol and create Tokens on top of it.
+* **Token Creation on a Proprietary Protocol:** Companies can write your own native Blockchain/Protocol and create Tokens on top of it.
 
 **Token Issuance:**
 
@@ -174,9 +175,9 @@ If you are an entrepreneur looking to raise capital, you may be asking yourself,
 
 * **Blockchain-based startups**: hope to grow significantly using the funds obtained.
 
-* **Organizations with an established and validated technology and business: **In this case, issuing a proprietary token could incentivize the usage and monetization of an online network through distributing tokens for using the organization's’ services
+* **Organizations with an established and validated technology and business:** In this case, issuing a proprietary token could incentivize the usage and monetization of an online network through distributing tokens for using the organization's’ services
 
-* If you** have a real use case of blockchain technology** with solving your business problem
+* If you **have a real use case of blockchain technology** with solving your business problem
 
 If you fit these criteria, it doesn’t matter how much money you are looking to raise.  While some ICOs set minimum commitment requirements, there is no average ticket size for fundraising - ZrCoin raised US$7M from 3,955 investors (NOTE:  https://www.crowdfundinsider.com/2017/06/101872-zrcoin-ico-claims-7-million-raised-3955-investors/), while BAT raised US$36M from 190 investors (NOTE:  http://www.trustnodes.com/2017/05/31/ethereum-based-bat-ico-raises-36-million-30-seconds-disrupt-advertising)
 
@@ -360,7 +361,7 @@ Pre-sales</td>
 </table>
 
 
-**BENEFITS OF AN ICO FOR THE ****ISSUING ****ORGANIZATION**
+**BENEFITS OF AN ICO FOR THE ISSUING ORGANIZATION**
 
 *  Build community + networking effect
 
@@ -386,7 +387,7 @@ Pre-sales</td>
 
  
 
-**Risks**** of Conducting an ICO**
+**Risks of Conducting an ICO**
 
 * Business Risk with Smart Contracts
 
@@ -531,7 +532,7 @@ If there is not a use case of the Blockchain technology in your business model, 
 
 #### HOW MUCH DOES IT COST TO RAISE AN ICO?
 
-* Expect costs to be at least **US$250k** (whether paid in fiat currency upfront or through the proceeds raised from the ICO itself)**, more likely US$500k **(in light of the increasing regulatory complexity and high-number of ICO that create a crowded market)**, and up to US$1m **(which reflects the specialized nature of International securities laws, government restrictions, and more complex structures that have evolved to ensure regulatory compliance and investor comfort).
+* Expect costs to be at least **US$250k** (whether paid in fiat currency upfront or through the proceeds raised from the ICO itself)**, more likely US$500k (in light of the increasing regulatory complexity and high-number of ICO that create a crowded market)**, and up to US$1m (which reflects the specialized nature of International securities laws, government restrictions, and more complex structures that have evolved to ensure regulatory compliance and investor comfort).
 
 * Prior to Q3 2017, many ICO issuers simply accepted the amounts that they raised with little, if any, legal obligations towards investors. Now, the fallout from highly-public ICO failures (such as the allegations and lawsuits involving Tezos), prospective token issuers are implementing additional safeguards (such as raising capital in tranches, agreeing to return 90% of monies raised if products do not launch, etc.) in order to attract investors.
 
