@@ -2,11 +2,7 @@
 
 #### ICO Playbook for Entrepreneurs 
 
-Initially compiled by: <br>
-Frederick Ng, Fresco Fellow, Fresco Capital <br>
-Stephen Forte, Managing Partner, Fresco Capital <br>
-Adam Omar Shanti, Venture Partner, Fresco Capital
-
+Initially compiled by: <br>Team Fresco <br>
 
 An open source guide to ICOs.
 
